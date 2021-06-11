@@ -1,0 +1,7 @@
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.104:5000/ (Press CTRL+C to quit)
+INFO:app:Metrics request successful
+INFO:werkzeug:192.168.0.104 - - [10/Jun/2021 22:17:21] "GET /metrics HTTP/1.1" 200 -
+INFO:app:Metrics request successful
+INFO:werkzeug:192.168.0.104 - - [10/Jun/2021 22:17:23] "GET /metrics HTTP/1.1" 200 -
